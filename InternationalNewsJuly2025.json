@@ -1,0 +1,722 @@
+[
+  {
+    "topic": "1. US Federal Reserve Interest Rate Hike – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Fed raises rates by 0.25% in July",
+        "content": "• On July 17, 2025, the US Federal Reserve increased its benchmark interest rate by 0.25% to curb inflation, impacting global markets."
+      }
+    ]
+  },
+  {
+    "topic": "2. UK General Election Results – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Labour Party wins majority in July polls",
+        "content": "• In July 2025, the Labour Party secured a majority in the UK general elections, leading to a change in government."
+      }
+    ]
+  },
+  {
+    "topic": "3. China GDP Growth Slows – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "China reports 4.8% GDP growth in July quarter",
+        "content": "• China’s GDP growth slowed to 4.8% in the July 2025 quarter, raising concerns about global economic recovery."
+      }
+    ]
+  },
+  {
+    "topic": "4. Russia-Ukraine Peace Talks Resume – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Peace negotiations restart in Geneva in July",
+        "content": "• Russia and Ukraine resumed peace talks in Geneva in July 2025, focusing on ceasefire and humanitarian aid."
+      }
+    ]
+  },
+  {
+    "topic": "5. Japan Launches Lunar Probe – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Japan launches lunar probe on July 10",
+        "content": "• On July 10, 2025, Japan launched a new lunar probe to study moon’s surface and resources."
+      }
+    ]
+  },
+  {
+    "topic": "6. EU Climate Policy Update – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "EU announces stricter emission targets in July",
+        "content": "• European Union updated its climate policy in July 2025, setting stricter emission reduction targets for member states."
+      }
+    ]
+  },
+  {
+    "topic": "7. Brazil Amazon Deforestation Decline – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Amazon deforestation drops by 20% in July",
+        "content": "• Brazil reported a 20% decline in Amazon deforestation rates in July 2025 due to new conservation measures."
+      }
+    ]
+  },
+  {
+    "topic": "8. South Africa Power Crisis Eases – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Load shedding reduced in July",
+        "content": "• South Africa’s power crisis eased in July 2025 as new power plants came online, reducing load shedding."
+      }
+    ]
+  },
+  {
+    "topic": "9. Australia Trade Agreement with ASEAN – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Australia signs trade pact with ASEAN in July",
+        "content": "• Australia signed a new trade agreement with ASEAN countries in July 2025, boosting regional commerce."
+      }
+    ]
+  },
+  {
+    "topic": "10. Canada Wildfire Emergency – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Wildfires prompt emergency in British Columbia in July",
+        "content": "• Canada declared a state of emergency in British Columbia in July 2025 due to widespread wildfires."
+      }
+    ]
+  },
+  {
+    "topic": "11. France Hosts Olympic Qualifiers – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Paris hosts Olympic qualifiers in July",
+        "content": "• Paris hosted Olympic qualifying events in July 2025, attracting athletes from over 100 countries."
+      }
+    ]
+  },
+  {
+    "topic": "12. Germany Renewable Energy Milestone – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Germany achieves 50% renewable energy in July",
+        "content": "• Germany’s renewable energy share reached 50% in July 2025, marking a major milestone in energy transition."
+      }
+    ]
+  },
+  {
+    "topic": "13. Italy Heatwave Record – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Italy records highest July temperature in history",
+        "content": "• Italy experienced its highest July temperature on record in 2025, impacting agriculture and tourism."
+      }
+    ]
+  },
+  {
+    "topic": "14. Saudi Arabia Oil Output Increase – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Saudi Arabia boosts oil output in July",
+        "content": "• Saudi Arabia increased oil production in July 2025 to stabilize global energy markets."
+      }
+    ]
+  },
+  {
+    "topic": "15. UAE Mars Mission Update – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "UAE releases new Mars mission data in July",
+        "content": "• UAE published new findings from its Mars mission in July 2025, advancing planetary science."
+      }
+    ]
+  },
+  {
+    "topic": "16. Singapore Digital Banking Expansion – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Singapore grants new digital bank licenses in July",
+        "content": "• Singapore issued new digital banking licenses in July 2025, expanding fintech sector."
+      }
+    ]
+  },
+  {
+    "topic": "17. South Korea Semiconductor Investment – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "South Korea announces $10B chip investment in July",
+        "content": "• South Korea pledged $10 billion investment in semiconductor industry in July 2025."
+      }
+    ]
+  },
+  {
+    "topic": "18. New Zealand Earthquake Response – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "New Zealand responds to 6.2 magnitude quake in July",
+        "content": "• New Zealand launched emergency response after a 6.2 magnitude earthquake struck North Island in July 2025."
+      }
+    ]
+  },
+  {
+    "topic": "19. Turkey Refugee Policy Change – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Turkey revises refugee policy in July",
+        "content": "• Turkey announced new refugee policy measures in July 2025 to address migration challenges."
+      }
+    ]
+  },
+  {
+    "topic": "20. Mexico Peso Strengthens – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Mexican peso hits 5-year high in July",
+        "content": "• Mexico’s peso reached a five-year high against the US dollar in July 2025, reflecting economic resilience."
+      }
+    ]
+  },
+  {
+    "topic": "21. G20 Summit in Italy – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "World leaders meet in Rome for G20 Summit",
+        "content": "• The G20 Summit was held in Rome, Italy, in July 2025, focusing on global economic recovery and climate action."
+      }
+    ]
+  },
+  {
+    "topic": "22. UN Security Council Adopts Resolution on Cybersecurity – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "UNSC passes global cybersecurity resolution in July",
+        "content": "• The UN Security Council adopted a resolution on international cybersecurity cooperation in July 2025."
+      }
+    ]
+  },
+  {
+    "topic": "23. India-EU Free Trade Talks Progress – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "India and EU advance free trade negotiations in July",
+        "content": "• India and the European Union made progress in free trade agreement talks in July 2025."
+      }
+    ]
+  },
+  {
+    "topic": "24. US-China Technology Agreement – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "US and China sign tech cooperation pact in July",
+        "content": "• The US and China signed a technology cooperation agreement in July 2025 to ease trade tensions."
+      }
+    ]
+  },
+  {
+    "topic": "25. WHO Declares End of Ebola Outbreak in Africa – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "WHO announces end of Ebola outbreak in July",
+        "content": "• The World Health Organization declared the end of the Ebola outbreak in West Africa in July 2025."
+      }
+    ]
+  },
+  {
+    "topic": "26. OPEC Oil Price Stabilization – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "OPEC stabilizes oil prices in July",
+        "content": "• OPEC implemented measures to stabilize global oil prices in July 2025."
+      }
+    ]
+  },
+  {
+    "topic": "27. IMF Revises Global Growth Forecast – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "IMF updates global growth forecast in July",
+        "content": "• The IMF revised its global growth forecast to 3.2% for 2025 in its July update."
+      }
+    ]
+  },
+  {
+    "topic": "28. COP29 Climate Conference Preparations – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Preparations for COP29 climate talks begin in July",
+        "content": "• Preparations for the COP29 Climate Conference started in July 2025, with host country announcing agenda priorities."
+      }
+    ]
+  },
+  {
+    "topic": "29. ASEAN Regional Security Meeting – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "ASEAN holds regional security meeting in July",
+        "content": "• ASEAN countries met in July 2025 to discuss regional security and counterterrorism strategies."
+      }
+    ]
+  },
+  {
+    "topic": "30. Israel-Palestine Ceasefire Agreement – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Ceasefire agreement reached in July",
+        "content": "• Israel and Palestine agreed to a ceasefire in July 2025 after weeks of conflict."
+      }
+    ]
+  },
+  {
+    "topic": "31. Brazil Hosts BRICS Summit – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "BRICS leaders meet in Brazil in July",
+        "content": "• Brazil hosted the BRICS Summit in July 2025, focusing on economic cooperation and development."
+      }
+    ]
+  },
+  {
+    "topic": "32. UK Announces New Immigration Policy – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "UK unveils new immigration rules in July",
+        "content": "• The UK government announced new immigration policies in July 2025 to attract skilled workers."
+      }
+    ]
+  },
+  {
+    "topic": "33. China Launches Green Energy Initiative – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "China launches major green energy program in July",
+        "content": "• China launched a nationwide green energy initiative in July 2025 to reduce carbon emissions."
+      }
+    ]
+  },
+  {
+    "topic": "34. US Supreme Court Ruling on Data Privacy – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "US Supreme Court issues data privacy ruling in July",
+        "content": "• The US Supreme Court ruled on a landmark data privacy case in July 2025, impacting tech companies."
+      }
+    ]
+  },
+  {
+    "topic": "35. France Implements Digital Tax – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "France enforces digital tax on tech firms in July",
+        "content": "• France began enforcing a digital tax on major tech companies in July 2025."
+      }
+    ]
+  },
+  {
+    "topic": "36. Germany Hosts Global Health Summit – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Global Health Summit held in Berlin in July",
+        "content": "• Berlin hosted the Global Health Summit in July 2025, focusing on pandemic preparedness."
+      }
+    ]
+  },
+  {
+    "topic": "37. Italy Tourism Recovery – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Italy reports tourism recovery in July",
+        "content": "• Italy reported a strong recovery in tourism numbers in July 2025 after pandemic disruptions."
+      }
+    ]
+  },
+  {
+    "topic": "38. Saudi Arabia Hosts OIC Meeting – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "OIC meeting held in Riyadh in July",
+        "content": "• Saudi Arabia hosted the Organization of Islamic Cooperation meeting in July 2025."
+      }
+    ]
+  },
+  {
+    "topic": "39. UAE Launches Space Startup Fund – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "UAE launches space startup fund in July",
+        "content": "• UAE announced a new fund for space startups in July 2025 to boost innovation."
+      }
+    ]
+  },
+  {
+    "topic": "40. Singapore Hosts Fintech Conference – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Fintech conference held in Singapore in July",
+        "content": "• Singapore hosted a major fintech conference in July 2025, attracting global investors."
+      }
+    ]
+  },
+  {
+    "topic": "41. South Korea-Japan Trade Talks – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Trade negotiations between South Korea and Japan in July",
+        "content": "• South Korea and Japan held trade talks in July 2025 to resolve tariff disputes."
+      }
+    ]
+  },
+  {
+    "topic": "42. New Zealand Climate Action Plan – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "New Zealand unveils climate action plan in July",
+        "content": "• New Zealand announced a new climate action plan in July 2025 to achieve net zero emissions."
+      }
+    ]
+  },
+  {
+    "topic": "43. Turkey Hosts NATO Exercise – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "NATO military exercise held in Turkey in July",
+        "content": "• Turkey hosted a NATO military exercise in July 2025 to strengthen alliance cooperation."
+      }
+    ]
+  },
+  {
+    "topic": "44. Mexico Signs Renewable Energy Deal – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Mexico signs renewable energy agreement in July",
+        "content": "• Mexico signed a renewable energy deal with Canada in July 2025 to expand clean energy projects."
+      }
+    ]
+  },
+  {
+    "topic": "45. Brazil Wins Copa America – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Brazil wins Copa America football tournament in July",
+        "content": "• Brazil won the Copa America football championship in July 2025, defeating Argentina in the final."
+      }
+    ]
+  },
+  {
+    "topic": "46. UK Hosts Commonwealth Business Forum – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Commonwealth Business Forum held in London in July",
+        "content": "• London hosted the Commonwealth Business Forum in July 2025, focusing on trade and investment."
+      }
+    ]
+  },
+  {
+    "topic": "47. China Announces New Space Station Module – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "China launches new space station module in July",
+        "content": "• China launched a new module for its space station in July 2025, expanding research capabilities."
+      }
+    ]
+  },
+  {
+    "topic": "48. US-Mexico Border Security Agreement – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "US and Mexico sign border security pact in July",
+        "content": "• The US and Mexico signed a border security agreement in July 2025 to address migration and trafficking."
+      }
+    ]
+  },
+  {
+    "topic": "49. France Hosts Tour de France – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Tour de France cycling race held in July",
+        "content": "• France hosted the annual Tour de France cycling race in July 2025, drawing global attention."
+      }
+    ]
+  },
+  {
+    "topic": "50. Germany Unveils Hydrogen Economy Plan – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Germany announces hydrogen economy plan in July",
+        "content": "• Germany unveiled a national hydrogen economy plan in July 2025 to promote clean energy."
+      }
+    ]
+  },
+  {
+    "topic": "51. Italy Hosts Venice Film Festival – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Venice Film Festival held in July",
+        "content": "• Italy hosted the Venice Film Festival in July 2025, premiering international films."
+      }
+    ]
+  },
+  {
+    "topic": "52. Saudi Arabia Launches Digital Currency – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Saudi Arabia introduces digital currency in July",
+        "content": "• Saudi Arabia launched its first digital currency in July 2025 to modernize financial systems."
+      }
+    ]
+  },
+  {
+    "topic": "53. UAE Hosts Global Education Summit – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Global Education Summit held in Dubai in July",
+        "content": "• Dubai hosted the Global Education Summit in July 2025, focusing on digital learning."
+      }
+    ]
+  },
+  {
+    "topic": "54. Singapore Announces Smart City Initiative – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Singapore launches smart city program in July",
+        "content": "• Singapore announced a new smart city initiative in July 2025 to enhance urban living."
+      }
+    ]
+  },
+  {
+    "topic": "55. South Korea Hosts World Robotics Expo – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "World Robotics Expo held in Seoul in July",
+        "content": "• Seoul hosted the World Robotics Expo in July 2025, showcasing advanced technologies."
+      }
+    ]
+  },
+  {
+    "topic": "56. New Zealand Signs Pacific Trade Pact – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "New Zealand joins Pacific trade agreement in July",
+        "content": "• New Zealand signed a new Pacific trade pact in July 2025 to boost regional commerce."
+      }
+    ]
+  },
+  {
+    "topic": "57. Turkey Hosts International Tourism Fair – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "International Tourism Fair held in Istanbul in July",
+        "content": "• Istanbul hosted an international tourism fair in July 2025, attracting global participants."
+      }
+    ]
+  },
+  {
+    "topic": "58. Mexico Launches National Vaccination Drive – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Mexico starts national vaccination campaign in July",
+        "content": "• Mexico launched a nationwide vaccination drive in July 2025 to combat infectious diseases."
+      }
+    ]
+  },
+  {
+    "topic": "59. Brazil Announces New Biodiversity Law – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Brazil passes biodiversity protection law in July",
+        "content": "• Brazil enacted a new biodiversity protection law in July 2025 to preserve ecosystems."
+      }
+    ]
+  },
+  {
+    "topic": "60. UK Hosts Wimbledon Tennis Championships – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Wimbledon tennis tournament held in July",
+        "content": "• The Wimbledon tennis championships were held in the UK in July 2025, featuring top players."
+      }
+    ]
+  },
+  {
+    "topic": "61. China Unveils AI Research Center – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "China opens new AI research center in July",
+        "content": "• China inaugurated a new artificial intelligence research center in July 2025 to advance technology."
+      }
+    ]
+  },
+  {
+    "topic": "62. US Hosts Global Entrepreneurship Summit – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Global Entrepreneurship Summit held in Silicon Valley in July",
+        "content": "• The US hosted the Global Entrepreneurship Summit in Silicon Valley in July 2025, fostering innovation."
+      }
+    ]
+  },
+  {
+    "topic": "63. France Implements Universal Basic Income Pilot – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "France launches UBI pilot program in July",
+        "content": "• France started a universal basic income pilot program in July 2025 to study social welfare impacts."
+      }
+    ]
+  },
+  {
+    "topic": "64. Germany Hosts International Auto Show – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "International Auto Show held in Frankfurt in July",
+        "content": "• Frankfurt hosted the International Auto Show in July 2025, displaying new vehicle models."
+      }
+    ]
+  },
+  {
+    "topic": "65. Italy Signs Mediterranean Security Pact – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Italy joins Mediterranean security agreement in July",
+        "content": "• Italy signed a Mediterranean security pact in July 2025 to enhance regional stability."
+      }
+    ]
+  },
+  {
+    "topic": "66. Saudi Arabia Hosts Renewable Energy Expo – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Renewable Energy Expo held in Riyadh in July",
+        "content": "• Riyadh hosted a renewable energy expo in July 2025, showcasing green technologies."
+      }
+    ]
+  },
+  {
+    "topic": "67. UAE Announces New Tourism Strategy – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "UAE unveils tourism strategy in July",
+        "content": "• UAE announced a new tourism strategy in July 2025 to attract international visitors."
+      }
+    ]
+  },
+  {
+    "topic": "68. Singapore Hosts International Maritime Forum – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "International Maritime Forum held in Singapore in July",
+        "content": "• Singapore hosted the International Maritime Forum in July 2025, discussing shipping industry trends."
+      }
+    ]
+  },
+  {
+    "topic": "69. South Korea Launches National AI Policy – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "South Korea announces national AI policy in July",
+        "content": "• South Korea launched a national artificial intelligence policy in July 2025 to drive innovation."
+      }
+    ]
+  },
+  {
+    "topic": "70. New Zealand Hosts Rugby World Cup Qualifiers – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Rugby World Cup qualifiers held in New Zealand in July",
+        "content": "• New Zealand hosted Rugby World Cup qualifying matches in July 2025, drawing global teams."
+      }
+    ]
+  },
+  {
+    "topic": "71. Turkey Implements Digital Health Records – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Turkey launches digital health records system in July",
+        "content": "• Turkey implemented a nationwide digital health records system in July 2025 to improve healthcare."
+      }
+    ]
+  },
+  {
+    "topic": "72. Mexico Hosts International Film Festival – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "International Film Festival held in Mexico City in July",
+        "content": "• Mexico City hosted an international film festival in July 2025, premiering global cinema."
+      }
+    ]
+  },
+  {
+    "topic": "73. Brazil Launches National Literacy Campaign – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Brazil starts literacy campaign in July",
+        "content": "• Brazil launched a national literacy campaign in July 2025 to improve education outcomes."
+      }
+    ]
+  },
+  {
+    "topic": "74. UK Announces Green Finance Initiative – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "UK launches green finance program in July",
+        "content": "• The UK government announced a green finance initiative in July 2025 to support sustainable investments."
+      }
+    ]
+  },
+  {
+    "topic": "75. China Hosts World Internet Conference – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "World Internet Conference held in Beijing in July",
+        "content": "• Beijing hosted the World Internet Conference in July 2025, focusing on digital governance."
+      }
+    ]
+  },
+  {
+    "topic": "76. US Announces New Immigration Reforms – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "US unveils immigration reform package in July",
+        "content": "• The US government announced new immigration reforms in July 2025 to streamline visa processes."
+      }
+    ]
+  },
+  {
+    "topic": "77. France Hosts International Art Fair – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "International Art Fair held in Paris in July",
+        "content": "• Paris hosted an international art fair in July 2025, featuring artists from around the world."
+      }
+    ]
+  },
+  {
+    "topic": "78. Germany Implements Digital Education Policy – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Germany launches digital education policy in July",
+        "content": "• Germany implemented a digital education policy in July 2025 to modernize schools."
+      }
+    ]
+  },
+  {
+    "topic": "79. Italy Hosts International Fashion Week – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "International Fashion Week held in Milan in July",
+        "content": "• Milan hosted International Fashion Week in July 2025, showcasing global designers."
+      }
+    ]
+  },
+  {
+    "topic": "80. Saudi Arabia Announces New Space Program – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Saudi Arabia unveils new space program in July",
+        "content": "• Saudi Arabia announced a new national space program in July 2025 to advance aerospace research."
+      }
+    ]
+  }
+]

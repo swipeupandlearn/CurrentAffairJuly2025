@@ -1,0 +1,68 @@
+[
+  {
+    "topic": "Science & Technology – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "NISAR Earth-Observation Satellite Launched",
+        "content": "• NASA-ISRO Synthetic Aperture Radar (NISAR) launched on July 30, 2025 aboard GSLV-F16 from Sriharikota into sun-synchronous orbit. :contentReference[oaicite:0]{index=0}\n• Equipped with dual-frequency radar (L-band by NASA, S-band by ISRO) to capture high-resolution data day or night, through all weather. :contentReference[oaicite:1]{index=1}\n• Capable of mapping Earth's land and ice every 12 days with centimeter precision—critical for disaster response, glacier monitoring and climate change insights. :contentReference[oaicite:2]{index=2}"
+      },
+      {
+        "subtopic": "‘One Day As a Scientist’ Programme by CSIR-NEERI",
+        "content": "• Under the CSIR Jigyasa initiative, CSIR-NEERI hosted the ‘One Day As a Scientist’ event from July 21–25, exposing 90 students to hands-on water and soil experiments and R&D facility tours. :contentReference[oaicite:3]{index=3}\n• Led by Dr. Vinay K. Nandicoori (CSIR-CCMB) and Dr. S Venkata Mohan, the program aimed to spark scientific curiosity through immersive lab sessions and expert interaction. :contentReference[oaicite:4]{index=4}"
+      },
+      {
+        "subtopic": "Stardour’s Hydrogen-Oxygen Engine Test",
+        "content": "• Hyderabad-based spacetech startup Stardour test-fired India’s first in-house hydrogen-oxygen propulsion engine at IISc Bengaluru. :contentReference[oaicite:5]{index=5}\n• The engine is designed for sustainable orbital logistics operations—like payload transfer, refueling, debris removal—and will power the Lucas orbital transfer vehicle set for Q3 2027. :contentReference[oaicite:6]{index=6}"
+      },
+      {
+        "subtopic": "IRNSS Navigation Satellites Planned",
+        "content": "• ISRO plans to launch three navigation satellites—NVS-03, NVS-04, NVS-05—by the end of 2025, to reinforce the regional NavIC constellation. :contentReference[oaicite:7]{index=7}\n• Existing IRNSS services are partly compromised: NVS-02 launch in January 2025 encountered a maneuver glitch; two earlier satellites failed, resulting in limited one-way broadcasts. :contentReference[oaicite:8]{index=8}"
+      },
+      {
+        "subtopic": "ULPGM-V3 UAV-launched Precision Missile Test",
+        "content": "• On July 25, DRDO successfully conducted flight trials of ULPGM-V3—a UAV-launched, anti-armour precision-guided missile—at Kurnool. :contentReference[oaicite:9]{index=9}\n• Featuring a tandem-charge warhead and top-attack capability, it’s a portable system designed for infantry deployment with high accuracy against modern armour. :contentReference[oaicite:10]{index=10}"
+      },
+      {
+        "subtopic": "Maharashtra’s Unified AI-Powered IELM Portal Initiative",
+        "content": "• Maharashtra approved a ₹4.95 crore project to build an AI-enabled super portal consolidating services of Labour, Industry, Energy & Mining departments by September 2025. :contentReference[oaicite:11]{index=11}\n• Features include multilingual voice chatbot, WhatsApp integration, Aadhaar/mobile-based personalization, GIS facility mapping, real-time dashboards, and accessible mobile app. :contentReference[oaicite:12]{index=12}"
+      },
+      {
+        "subtopic": "South Asia Regional Centre for Tuber Crop Innovation (Agra)",
+        "content": "• UP is set to host CIP’s South Asia Regional Centre in Agra focused on tuber crop innovation (potato, sweet potato) with ₹111.5 crore funding approved June 2025. :contentReference[oaicite:13]{index=13}\n• Collaboration involves CIP (Peru), ICAR, IRRI and Krishi Vigyan Kendras to enhance seed quality, germplasm conservation, value-chain development and farmer training. :contentReference[oaicite:14]{index=14}"
+      },
+      {
+        "subtopic": "Qualcomm Snapdragon Auto Day India",
+        "content": "• Qualcomm, in partnership with AWS, hosted India’s first 'Snapdragon Auto Day' in New Delhi on July 30, 2025. :contentReference[oaicite:15]{index=15}\n• The event showcased Snapdragon automotive platforms (Cockpit, Ride, Auto Connectivity, Car-to-Cloud) and AI-powered, Vehicle-to-Everything (V2X) technologies aimed at enhancing safety, connectivity and smart mobility in Indian vehicles. :contentReference[oaicite:16]{index=16}"
+      },
+      {
+        "subtopic": "Private-Sector R&D Boost Highlighted",
+        "content": "• A ₹1 lakh crore central scheme encouraging private-sector deep-tech R&D across sectors (quantum, AI, biotech) has been detailed, citing innovation efforts by QNu Labs (QKD), Vyome Biosciences (AI), IdeaForge (drones), and Skyroot (space-tech). :contentReference[oaicite:17]{index=17}"
+      },
+      {
+        "subtopic": "Gujarat’s Tribal Genome Sequencing Project",
+        "content": "• Gujarat launched its first Tribal Genome Sequencing Project under GIP, targeting 4,158 participants (incl. 378 trio families) to generate a 2,000-sample reference panel using WGS. :contentReference[oaicite:18]{index=18}\n• Aims include mapping genetic traits (e.g., disease predisposition, agility traits), advancing precision medicine, and integrating securely into the national Genome India Project. :contentReference[oaicite:19]{index=19}"
+      }
+    ]
+  },
+  {
+    "topic": "Apps & Portals – July 2025",
+    "subtopics": [
+      {
+        "subtopic": "Chandigarh Unified Services Mobile App",
+        "content": "• A consolidated mobile app for over 700 citizen services across UT departments (e.g., DC Office, Health, Transport, Food & Supply) was developed on the UMANG framework. It allows users to apply, pay fees, track applications, download documents, and access 'how-to' guides and video tutorials. ([turn0news19], [turn0search8])"
+      },
+      {
+        "subtopic": "NAMASTE WastePickers App",
+        "content": "• Launched under the NAMASTE scheme by NSKFDC, this app digitizes the enumeration and validation of waste pickers across India, facilitating issuance of ID cards and enabling access to social welfare benefits. ([turn0search0])"
+      },
+      {
+        "subtopic": "Digital India – UMANG & Bhashini",
+        "content": "• UMANG (Unified Mobile App for New-age Governance) surpassed 8.34 crore registrations and recorded over 597 crore transactions by June 2025, offering 2,300 services in 23 Indian languages. ([turn0search2])\n• Bhashini, an AI-powered language portal by MeitY, supports 35+ languages through 1,600+ AI models and is integrated into platforms like IRCTC and NPCI's IVRS. It has been downloaded over 8.5 lakh times. ([turn0search2])"
+      },
+      {
+        "subtopic": "SPMEPCI EV Manufacturing Application Portal",
+        "content": "• Under the Scheme to Promote Manufacturing of Electric Passenger Cars in India, a portal (spmepci.heavyindustries.gov.in) was launched on 24 June 2025 for application submissions, open till 21 October 2025. The scheme encourages global EV players to invest with customs duty concessions and DVA mandates. ([turn0search5])"
+      }
+    ]
+  }
+]
