@@ -1,19 +1,29 @@
-
 [
-  { "name": "Important Dates-June 2025", "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/ImportantDateJuly25.json" },
-  { "name": "National And State News- June 2025", "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/NationalAndStateNewsJuly25.json" },
-  { "name": "International News- June 2025", "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/InternationalNewsJuly2025.json" },
-{ "name": "Banking, Finance & Biz 1st Part-June 2025", "url": "" },
-{ "name": "Banking, Finance & Biz 2nd Part-June 2025", "url": "" },
-  { "name": "Appointment And Resignation- June 2025", "url": "" },
-{ "name": "MOUS and Agreements-June 2025", "url": "" },
-  { "name": "Acqition And Mergers- June 2025", "url": "" },
-{ "name": "Book And Author-June 2025", "url": "" },
-  { "name": "Awards and Honours- June 2025", "url": "" },
-{ "name": "Ranking And Indexes-June 2025", "url": "" },
-  { "name": "Science And Technology- June 2025", "" },
-{ "name": "Apps And Portals- June 2025", "url": "" },
-{ "name": "Defence News-June 2025", "url": "" },
-{ "name": "Sport News-June 2025", "url": "" },
-{ "name": "Obituaries And Person in News-June 2025", "url": "" }
+  {
+    "name": "Important Dates-July 2025",
+    "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/ImportantDateJuly25.json"
+  },
+  {
+    "name": "National And State News- July 2025",
+    "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/NationalAndStateNewsJuly25.json"
+  },
+  {
+    "name": "International News- July 2025",
+    "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/InternationalNewsJuly2025.json"
+  },
+  {
+    "name": "Banking, Finance & Biz July 2025",
+    "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/BankingFinanceBusinessNewsJuly2025.json"
+  },
+  { "name": "Appointment And Resignation- July 2025", "url": "" },
+  { "name": "MOUS and Agreements-July 2025", "url": "" },
+  { "name": "Acqition And Mergers- July 2025", "url": "" },
+  { "name": "Book And Author-July 2025", "url": "" },
+  { "name": "Awards and Honours- July 2025", "url": "" },
+  { "name": "Ranking And Indexes-July 2025", "url": "" },
+  { "name": "Science And Technology- July 2025", "url": "" },
+  { "name": "Apps And Portals- July 2025", "url": "" },
+  { "name": "Defence News-July 2025", "url": "" },
+  { "name": "Sport News-July 2025", "url": "" },
+  { "name": "Obituaries And Person in News-July 2025", "url": "" }
 ]
