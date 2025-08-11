@@ -22,7 +22,7 @@
   { "name": "Awards and Honours- July 2025", "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/AwardsAndHonour.json" },
   { "name": "Ranking And Indexes-July 2025", "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/IndexesAndRankingJuly25.json" },
   { "name": "Science & Technology, Apps & Portals- July 2025", "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/ScienceAndTechJuly25.json" },
-  { "name": "Defence News-July 2025", "url": "" },
-  { "name": "Sport News-July 2025", "url": "" },
-  { "name": "Obituaries And Person in News-July 2025", "url": "" }
+  { "name": "Defence News-July 2025", "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/DefenceNewsJuly25.json" },
+  { "name": "Sport News-July 2025", "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/SportNewsJuly25.json" },
+  { "name": "Person in News And Obituaries-July 2025", "url": "https://raw.githubusercontent.com/swipeupandlearn/CurrentAffairJuly2025/refs/heads/main/ObutariesJuly25.json" }
 ]
